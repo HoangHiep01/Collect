@@ -1,0 +1,4 @@
+# Định nghĩa
+ Là một network lớn bao gồm nhiều network nhỏ kết nối với nhau.
+ Các networks nhỏ là private networks.
+ Các networks kết nối các mạng nhỏ được gọi là public networks hay internet.

@@ -1,0 +1,5 @@
+# Giới thiệu
+ Sử dụng ICMP để tính hiệu xuất kết nối giữa các thiết bị nếu có thể kết nối và đáng tin cậy
+
+ cmd: ping `ping IP address or website URL`
+ 

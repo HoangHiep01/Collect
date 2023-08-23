@@ -1,0 +1,36 @@
+# Lý do
+ Để có thể giao tiếp và duy trì trật tự, các thiết bị cần phải được xác định và xác định được nhau trong network.
+
+# Cách xác định
+ Địa chỉ IP
+ Địa chỉ MAC - số se-ri
+
+## Địa chỉ IP(Internet Protocol)
+  Dùng để xác định máy chủ trong 1 khoảng thời gian.
+
+  Là một set số được chia ra thành 4 octets (IPv4), giá trị mỗi octet [0:255].
+
+  Địa chỉ IP có thể thay đổi từ thiết bị này sang thiết bị khác nhưng không thể xuất hiện trên nhiều hơn 2 thiết bị trong cùng network.
+
+  Địa chỉ IP tuân theo một chuẩn gọi là protocals - khung xương xác định cách các thiết bị giao tiếp trong network.
+
+  Một thiết bị có địa chỉ IP là:
+ 	public định danh trên internet.
+ 	private định danh giữa các thiết bị trong mạng.
+
+  Các thiết bị trong mạng sẽ dùng chung Public IP khi giao tiếp với internet.
+
+  Với việc ngày càng có nhiều thiết bị thì khả năng đáp ứng địa IPv4 càng khó khăn.
+
+  IPv6 ra đời với số lượng địa chỉ có thể cung cấp nhiều hơn và hiệu quả hơn.
+
+## Địa chỉ MAC (Media Access Control)
+  Là địa chỉ vật lý được đánh trên chip nhỏ gắn trên main tại nhà máy sản xuất.
+
+  Gồm 12 ký tự:
+  	6 ký tự đầu: xác định công ty sản xuất.
+  	6 ký tự cuối: tạo tính độc nhất
+
+  Địa chỉ MAC có thể làm giả hoặc giả mạo (spoofing)
+
+ 
